@@ -4,4 +4,5 @@
 <b>In the game, two spaceships are supposed to attack each other while defending themselves</b>
 
 <h6>Here is a snapshot of the game:</h6>
+<img src = "space_game_demo.png"></img>
 
